@@ -17,3 +17,8 @@
 
 The app communicates with a WebSocket server hosted at `wss://echo.websocket.events`. 
 This server echoes back any message sent by the user.
+
+## 4. Strapi Server Demo
+
+[Screencast from 07-05-24 10:46:12 AM IST.webm](https://github.com/anirbanpaulcompany/flutterChat/assets/145089653/8f35fb69-1d3a-4977-9c66-4df1a41efd23)
+
