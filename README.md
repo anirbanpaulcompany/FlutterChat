@@ -1,4 +1,6 @@
-# Flutter Chat App
+# Flutter Chat App 
+ 
+ `You can access it here` [Link](https://anirbanpaulcompany.github.io/flutterChat/).
 
 ## 1. Login (Dummy Credentials)
 
